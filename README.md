@@ -111,7 +111,14 @@ This project is a simple landing page that includes user authentication with log
     git push origin feature/your-feature
     ```
 
-
-
-
 For any questions or feedback, please contact [YashR34](https://github.com/YashR34).
+
+![Screenshot (20)](https://github.com/user-attachments/assets/35ffb1bb-8d20-4952-aad7-8a81337b4464)
+
+![Screenshot (21)](https://github.com/user-attachments/assets/573a4f95-bab7-4ecc-8c14-e4313dc632dd)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/63cf09e2-0c08-4cb8-a5b2-67acd702a565)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/eae82b26-1ea6-485b-b12a-764fd2e50ad7)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/2d9a2e19-3227-4d65-8cb6-51e1ad6272cd)
