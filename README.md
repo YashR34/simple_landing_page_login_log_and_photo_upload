@@ -30,7 +30,7 @@ This project is a simple landing page that includes user authentication with log
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YashR34/simple_landing_page.git
+    git clone https://github.com/YashR34/simple_landing_page_login_log_and_photo_upload.git
     cd simple_landing_page
     ```
 
